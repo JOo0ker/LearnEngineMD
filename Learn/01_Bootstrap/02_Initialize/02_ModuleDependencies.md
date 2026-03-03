@@ -1,0 +1,11 @@
+用于初始化各类基础模组，例如：
+- ...
+- libTree
+- physics
+- gameAI
+- engine
+- game
+- api
+- core
+- renderDraw
+- ...
