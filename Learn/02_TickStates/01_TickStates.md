@@ -1,12 +1,12 @@
 # 根据当前状态抉择处理逻辑
 
 - State
-> [[Learn/02_TickStates/OnEnterState/01_BaseInitializationState|01_BaseInitializationState]][[01_BaseInitializationWithSplashScreenState#^6f7786]]
-> [[Learn/02_TickStates/OnEnterState/02_InitializationState|02_InitializationState]]
+> [[Learn/02_TickStates/04_OnEnterState/01_BaseInitializationState|01_BaseInitializationState]][[01_BaseInitializationWithSplashScreenState#^6f7786]]
+> [[Learn/02_TickStates/04_OnEnterState/02_InitializationState|02_InitializationState]]
 
 - Tick
-> [[Learn/02_TickStates/OnTick/01_BaseInitializationState|01_BaseInitializationState]]
-> [[Learn/02_TickStates/OnTick/02_InitializationState|02_InitializationState]][[02_InitializationWithSplashScreenState#^3bb792]]
+> [[Learn/02_TickStates/03_OnTick/01_BaseInitializationState|01_BaseInitializationState]]
+> [[Learn/02_TickStates/03_OnTick/02_InitializationState|02_InitializationState]][[02_InitializationWithSplashScreenState#^3bb792]]
 > [[03_Running]]
 > [[04_Shutdown]]
 

@@ -2,7 +2,7 @@
 1. 首先处理消息
 2. 运行帧逻辑并更新当前状态
 3. 根据状态判断是否结束循环
-[[02_Tick]]
+[[01_TickStates]]
 ```c++
 Int32 GameAppInstance::Run()
 {
