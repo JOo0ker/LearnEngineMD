@@ -90,6 +90,7 @@
 - 当前阶段：**Phase 3：Engine Tick（BaseLoopSingleTick vs MainLoopSingleTick）**
 - 已确认事实：见 `Learn/100_DoD.md`
 - 当前任务与开放问题：见 `Learn/99_OpenQuestions.md`
+- Phase 3 进度快照（2026-03-04）：已在笔记中明确 `PlatformPumpMessages/Run/LoopSingleTick/Process(Main|Base)LoopFrame` 的函数级骨架；下一步优先闭环 **Present 倒推（Phase4 的入口证据）** + **RequestExit→Shutdown→RunLoop 结束链路**。
 
 你现在要做的事（每次回答必须覆盖）：
 1) 从 `99_OpenQuestions` 里选择最短路径，给我 **1~3 个断点/搜索点**
